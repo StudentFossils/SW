@@ -1,5 +1,5 @@
 
-## Όνομα ομάδας: StudentFossils 🇬🇷
+## Όνομα ομάδας: StudentFossils
 ### GitHub organisation url: [StudentFossils](https://github.com/StudentFossils/SW/edit/main/Team/README.md)
 #### Νέα μέλη δεκτά: ΟΧΙ
 
