@@ -9,5 +9,5 @@
 | 2 | 2016132 | [gh link](https://github.com/fanisdimitriadis) | p16dimi@ionio.gr |
 | 3 | 2015146 | [gh link](https://github.com/deadoralive1908) | p15meta@ionio.gr |
 | 4 | 2015197 | [gh link](https://github.com/arse21) | p15avlo@ionio.gr |
-| 5 |2018093  | [gh link](https://github.com/theoharissiwzos/sw)|p18sioz@ionio.gr |
+| 5 |2018093  | [gh link](https://github.com/theoharissiwzos)|p18sioz@ionio.gr |
 
